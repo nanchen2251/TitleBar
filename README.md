@@ -1,7 +1,8 @@
 # TitleBar
 #一个可让你随意设置的标题栏，欢迎各位拍砖，主要是实现简单
 ##效果图<br>
-![](https://github.com/nanchen2251/TitleBar/blob/master/photo1.jpg) 
+![](https://github.com/nanchen2251/TitleBar/blob/master/photo1.jpg)
+![](https://github.com/nanchen2251/TitleBar/blob/master/photo3.jpg) 
 ![](https://github.com/nanchen2251/TitleBar/blob/master/photo2.jpg)<br>
 ####⊙开源不易，希望给个star或者fork奖励
 ##特点
