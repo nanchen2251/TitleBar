@@ -24,6 +24,22 @@
   <type>pom</type>
 </dependency>
 ```
+####2017年1月5日后仓库转移到jitpack，添加依赖方式为：
+#####Step 1. Add it in your root build.gradle at the end of repositories:
+```java
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
+#####Step 2. Add the dependency
+```java
+dependencies {
+	        compile 'com.github.nanchen2251:TitleBar:1.0.1'
+	}
+```
 ####2、在manifests里面设置不要标题
 ```java
 android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
